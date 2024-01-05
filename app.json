@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tutorial-storage",
-    "slug": "tutorial-storage",
+    "name": "plant",
+    "slug": "plant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,14 +16,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.betomoedano.tutorialstorage"
+      "bundleIdentifier": "com.plant"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.betomoedano.tutorialstorage"
+      "package": "com.plant"
     },
     "web": {
       "favicon": "./assets/favicon.png"

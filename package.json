@@ -1,5 +1,5 @@
 {
-  "name": "tutorial-storage",
+  "name": "plant-idendification",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start --dev-client",

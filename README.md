@@ -1,14 +1,3 @@
-## React-Native-Firebase-Storage
-
-Check this video [Uploading videos and images to Firebase Storage](https://codewithbeto.dev/projects/firebase-storage) using the blur effect.
-
-```
- git clone https://github.com/betomoedano/React-Native-Firebase-Storage.git
-```
-
-```
- cd React-Native-Firebase-Storage
-```
 
 ```
 yarn install
